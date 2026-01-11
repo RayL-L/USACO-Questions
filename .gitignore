@@ -1,0 +1,22 @@
+.DS_Store
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Java
+*.class
+
+# C/C++
+a.out
+*.o
+
+# IDE
+.vscode/
+.idea/
