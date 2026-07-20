@@ -3,6 +3,8 @@
 #include <iostream>
 using namespace std;
 
+
+
 long long answer(long long a, long long b, long long ca, long long cb, long long fa){
 
     if(a >= fa){
@@ -64,3 +66,5 @@ int main() {
     // code
     return 0;
 }
+
+
